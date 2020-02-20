@@ -1,0 +1,571 @@
+id,name
+3,Alameda - Alameda
+5,Alameda - Alameda-Unincorporated
+6,Alameda - Albany
+43,Alameda - Berkeley
+135,Alameda - Dublin
+146,Alameda - Emeryville
+167,Alameda - Fremont
+191,Alameda - Hayward
+261,Alameda - Livermore
+338,Alameda - Newark
+345,Alameda - Oakland
+372,Alameda - Piedmont
+381,Alameda - Pleasanton
+447,Alameda - San Leandro
+550,Alameda - Union City
+9,Alpine - Alpine-Unincorporated
+11,Amador - Amador City
+606,Amador - Amador County Integrated Solid Waste Management Agency
+13,Amador - Amador-Unincorporated
+218,Amador - Ione
+222,Amador - Jackson
+384,Amador - Plymouth
+521,Amador - Sutter Creek
+46,Butte - Biggs
+612,Butte - Butte County Regional Waste Management Authority
+60,Butte - Butte-Unincorporated
+80,Butte - Chico
+183,Butte - Gridley
+355,Butte - Oroville
+364,Butte - Paradise
+17,Calaveras - Angels Camp
+622,Calaveras - Calaveras County Regional Agency
+63,Calaveras - Calaveras-Unincorporated
+95,Colusa - Colusa
+603,Colusa - Colusa County Regional Agency
+97,Colusa - Colusa-Unincorporated
+577,Colusa - Williams
+18,Contra Costa - Antioch
+53,Contra Costa - Brentwood
+624,Contra Costa - Central Contra Costa Solid Waste Authority (CCCSWA)
+86,Contra Costa - Clayton
+100,Contra Costa - Concord
+617,Contra Costa - Contra Costa/Ironhouse/Oakley Regional Agency
+102,Contra Costa - Contra Costa-Unincorporated
+119,Contra Costa - Danville
+140,Contra Costa - El Cerrito
+194,Contra Costa - Hercules
+240,Contra Costa - Lafayette
+292,Contra Costa - Martinez
+323,Contra Costa - Moraga
+605,Contra Costa - Oakley
+353,Contra Costa - Orinda
+373,Contra Costa - Pinole
+375,Contra Costa - Pittsburg
+380,Contra Costa - Pleasant Hill
+402,Contra Costa - Richmond
+456,Contra Costa - San Pablo
+458,Contra Costa - San Ramon
+563,Contra Costa - Walnut Creek
+568,Contra Costa - West Contra Costa Integrated Waste Management Authority
+112,Del Norte - Crescent City
+122,Del Norte - Del Norte Solid Waste Management Authority
+124,Del Norte - Del Norte-Unincorporated
+142,El Dorado - El Dorado-Unincorporated
+379,El Dorado - Placerville
+509,El Dorado - South Lake Tahoe
+89,Fresno - Clovis
+91,Fresno - Coalinga
+158,Fresno - Firebaugh
+166,Fresno - Fowler
+168,Fresno - Fresno
+170,Fresno - Fresno-Unincorporated
+207,Fresno - Huron
+223,Fresno - Kerman
+230,Fresno - Kingsburg
+298,Fresno - Mendota
+350,Fresno - Orange Cove
+366,Fresno - Parlier
+400,Fresno - Reedley
+441,Fresno - San Joaquin
+460,Fresno - Sanger
+484,Fresno - Selma
+598,Glenn - Glenn County Waste Management Regional Agency
+178,Glenn - Glenn-Unincorporated
+354,Glenn - Orland
+579,Glenn - Willows
+21,Humboldt - Arcata
+48,Humboldt - Blue Lake
+151,Humboldt - Eureka
+156,Humboldt - Ferndale
+163,Humboldt - Fortuna
+204,Humboldt - Humboldt-Unincorporated
+404,Humboldt - Rio Dell
+535,Humboldt - Trinidad
+51,Imperial - Brawley
+64,Imperial - Calexico
+67,Imperial - Calipatria
+139,Imperial - El Centro
+201,Imperial - Holtville
+208,Imperial - Imperial
+623,Imperial - Imperial Valley Resource Management Agency
+211,Imperial - Imperial-Unincorporated
+574,Imperial - Westmorland
+47,Inyo - Bishop
+607,Inyo - Inyo Regional Waste Management Agency
+217,Inyo - Inyo-Unincorporated
+24,Kern - Arvin
+32,Kern - Bakersfield
+65,Kern - California City
+126,Kern - Delano
+225,Kern - Kern-Unincorporated
+286,Kern - Maricopa
+295,Kern - McFarland
+403,Kern - Ridgecrest
+485,Kern - Shafter
+524,Kern - Taft
+525,Kern - Tehachapi
+564,Kern - Wasco
+30,Kings - Avenal
+103,Kings - Corcoran
+188,Kings - Hanford
+227,Kings - Kings Waste and Recycling Authority
+229,Kings - Kings-Unincorporated
+257,Kings - Lemoore
+87,Lake - Clearlake
+248,Lake - Lakeport
+247,Lake - Lake-Unincorporated
+608,Lassen - Lassen Regional Solid Waste Management Authority
+253,Lassen - Lassen-Unincorporated
+520,Lassen - Susanville
+2,Los Angeles - Agoura Hills
+7,Los Angeles - Alhambra
+20,Los Angeles - Arcadia
+23,Los Angeles - Artesia
+29,Los Angeles - Avalon
+31,Los Angeles - Azusa
+33,Los Angeles - Baldwin Park
+37,Los Angeles - Bell
+38,Los Angeles - Bell Gardens
+39,Los Angeles - Bellflower
+44,Los Angeles - Beverly Hills
+50,Los Angeles - Bradbury
+57,Los Angeles - Burbank
+61,Los Angeles - Calabasas
+76,Los Angeles - Carson
+79,Los Angeles - Cerritos
+85,Los Angeles - Claremont
+98,Los Angeles - Commerce
+99,Los Angeles - Compton
+111,Los Angeles - Covina
+113,Los Angeles - Cudahy
+114,Los Angeles - Culver City
+128,Los Angeles - Diamond Bar
+133,Los Angeles - Downey
+134,Los Angeles - Duarte
+143,Los Angeles - El Monte
+145,Los Angeles - El Segundo
+174,Los Angeles - Gardena
+176,Los Angeles - Glendale
+177,Los Angeles - Glendora
+189,Los Angeles - Hawaiian Gardens
+190,Los Angeles - Hawthorne
+195,Los Angeles - Hermosa Beach
+197,Los Angeles - Hidden Hills
+206,Los Angeles - Huntington Park
+214,Los Angeles - Industry
+215,Los Angeles - Inglewood
+220,Los Angeles - Irwindale
+231,Los Angeles - La Canada Flintridge
+233,Los Angeles - La Habra Heights
+235,Los Angeles - La Mirada
+237,Los Angeles - La Puente
+239,Los Angeles - La Verne
+249,Los Angeles - Lakewood
+250,Los Angeles - Lancaster
+255,Los Angeles - Lawndale
+265,Los Angeles - Lomita
+267,Los Angeles - Long Beach
+272,Los Angeles - Los Angeles
+621,Los Angeles - Los Angeles Area Integrated Waste Management Authority
+274,Los Angeles - Los Angeles-Unincorporated
+278,Los Angeles - Lynwood
+282,Los Angeles - Malibu
+284,Los Angeles - Manhattan Beach
+294,Los Angeles - Maywood
+313,Los Angeles - Monrovia
+317,Los Angeles - Montebello
+319,Los Angeles - Monterey Park
+342,Los Angeles - Norwalk
+361,Los Angeles - Palmdale
+363,Los Angeles - Palos Verdes Estates
+365,Los Angeles - Paramount
+367,Los Angeles - Pasadena
+371,Los Angeles - Pico Rivera
+386,Los Angeles - Pomona
+394,Los Angeles - Rancho Palos Verdes
+398,Los Angeles - Redondo Beach
+413,Los Angeles - Rolling Hills
+414,Los Angeles - Rolling Hills Estates
+415,Los Angeles - Rosemead
+436,Los Angeles - San Dimas
+437,Los Angeles - San Fernando
+439,Los Angeles - San Gabriel
+452,Los Angeles - San Marino
+468,Los Angeles - Santa Clarita
+472,Los Angeles - Santa Fe Springs
+474,Los Angeles - Santa Monica
+489,Los Angeles - Sierra Madre
+492,Los Angeles - Signal Hill
+507,Los Angeles - South El Monte
+508,Los Angeles - South Gate
+510,Los Angeles - South Pasadena
+530,Los Angeles - Temple City
+533,Los Angeles - Torrance
+557,Los Angeles - Vernon
+562,Los Angeles - Walnut
+569,Los Angeles - West Covina
+570,Los Angeles - West Hollywood
+572,Los Angeles - Westlake Village
+576,Los Angeles - Whittier
+83,Madera - Chowchilla
+279,Madera - Madera
+281,Madera - Madera-Unincorporated
+41,Marin - Belvedere
+107,Marin - Corte Madera
+153,Marin - Fairfax
+251,Marin - Larkspur
+110,Marin - Marin County Hazardous and Solid Waste Management Authority
+288,Marin - Marin-Unincorporated
+304,Marin - Mill Valley
+343,Marin - Novato
+417,Marin - Ross
+422,Marin - San Anselmo
+457,Marin - San Rafael
+479,Marin - Sausalito
+532,Marin - Tiburon
+291,Mariposa - Mariposa-Unincorporated
+161,Mendocino - Fort Bragg
+297,Mendocino - Mendocino-Unincorporated
+385,Mendocino - Point Arena
+548,Mendocino - Ukiah
+578,Mendocino - Willits
+27,Merced - Atwater
+132,Merced - Dos Palos
+186,Merced - Gustine
+262,Merced - Livingston
+275,Merced - Los Banos
+300,Merced - Merced
+301,Merced - Merced County Solid Waste Regional Agency
+303,Merced - Merced-Unincorporated
+10,Modoc - Alturas
+310,Modoc - Modoc-Unincorporated
+283,Mono - Mammoth Lakes
+312,Mono - Mono-Unincorporated
+74,Monterey - Carmel-by-the-Sea
+125,Monterey - Del Rey Oaks
+179,Monterey - Gonzales
+182,Monterey - Greenfield
+226,Monterey - King City
+289,Monterey - Marina
+318,Monterey - Monterey
+321,Monterey - Monterey-Unincorporated
+357,Monterey - Pacific Grove
+421,Monterey - Salinas
+629,Monterey - Salinas Valley Solid Waste Authority
+459,Monterey - Sand City
+482,Monterey - Seaside
+500,Monterey - Soledad
+14,Napa - American Canyon
+68,Napa - Calistoga
+330,Napa - Napa
+332,Napa - Napa-Unincorporated
+512,Napa - St Helena
+552,Napa - Upper Valley Waste Management Agency
+588,Napa - Yountville
+181,Nevada - Grass Valley
+335,Nevada - Nevada City
+337,Nevada - Nevada-Unincorporated
+538,Nevada - Truckee
+615,Orange - Aliso Viejo
+15,Orange - Anaheim
+52,Orange - Brea
+56,Orange - Buena Park
+108,Orange - Costa Mesa
+116,Orange - Cypress
+118,Orange - Dana Point
+165,Orange - Fountain Valley
+171,Orange - Fullerton
+173,Orange - Garden Grove
+205,Orange - Huntington Beach
+219,Orange - Irvine
+232,Orange - La Habra
+236,Orange - La Palma
+241,Orange - Laguna Beach
+242,Orange - Laguna Hills
+243,Orange - Laguna Niguel
+604,Orange - Laguna Woods
+245,Orange - Lake Forest
+269,Orange - Los Alamitos
+307,Orange - Mission Viejo
+340,Orange - Newport Beach
+349,Orange - Orange
+352,Orange - Orange-Unincorporated
+376,Orange - Placentia
+614,Orange - Rancho Santa Margarita
+432,Orange - San Clemente
+446,Orange - San Juan Capistrano
+461,Orange - Santa Ana
+481,Orange - Seal Beach
+515,Orange - Stanton
+546,Orange - Tustin
+559,Orange - Villa Park
+573,Orange - Westminster
+587,Orange - Yorba Linda
+28,Placer - Auburn
+92,Placer - Colfax
+258,Placer - Lincoln
+268,Placer - Loomis
+378,Placer - Placer-Unincorporated
+411,Placer - Rocklin
+416,Placer - Roseville
+383,Plumas - Plumas-Unincorporated
+389,Plumas - Portola
+34,Riverside - Banning
+36,Riverside - Beaumont
+49,Riverside - Blythe
+66,Riverside - Calimesa
+71,Riverside - Canyon Lake
+77,Riverside - Cathedral City
+90,Riverside - Coachella
+105,Riverside - Corona
+127,Riverside - Desert Hot Springs
+627,Riverside - Eastvale
+193,Riverside - Hemet
+212,Riverside - Indian Wells
+213,Riverside - Indio
+628,Riverside - Jurupa Valley
+238,Riverside - La Quinta
+244,Riverside - Lake Elsinore
+626,Riverside - Menifee
+324,Riverside - Moreno Valley
+329,Riverside - Murrieta
+341,Riverside - Norco
+359,Riverside - Palm Desert
+360,Riverside - Palm Springs
+369,Riverside - Perris
+393,Riverside - Rancho Mirage
+408,Riverside - Riverside
+410,Riverside - Riverside-Unincorporated
+440,Riverside - San Jacinto
+529,Riverside - Temecula
+625,Riverside - Wildomar
+601,Sacramento - Citrus Heights
+613,Sacramento - Elk Grove
+159,Sacramento - Folsom
+172,Sacramento - Galt
+221,Sacramento - Isleton
+618,Sacramento - Rancho Cordova
+418,Sacramento - Sacramento
+602,Sacramento - Sacramento County/City of Citrus Heights Regional Agency
+420,Sacramento - Sacramento-Unincorporated
+200,San Benito - Hollister
+423,San Benito - San Benito County Integrated Waste Management Regional Agency
+425,San Benito - San Benito-Unincorporated
+445,San Benito - San Juan Bautista
+1,San Bernardino - Adelanto
+19,San Bernardino - Apple Valley
+35,San Bernardino - Barstow
+45,San Bernardino - Big Bear Lake
+81,San Bernardino - Chino
+82,San Bernardino - Chino Hills
+94,San Bernardino - Colton
+160,San Bernardino - Fontana
+180,San Bernardino - Grand Terrace
+196,San Bernardino - Hesperia
+198,San Bernardino - Highland
+264,San Bernardino - Loma Linda
+315,San Bernardino - Montclair
+334,San Bernardino - Needles
+348,San Bernardino - Ontario
+392,San Bernardino - Rancho Cucamonga
+397,San Bernardino - Redlands
+401,San Bernardino - Rialto
+426,San Bernardino - San Bernardino
+428,San Bernardino - San Bernardino-Unincorporated
+547,San Bernardino - Twentynine Palms
+551,San Bernardino - Upland
+558,San Bernardino - Victorville
+594,San Bernardino - Yucaipa
+595,San Bernardino - Yucca Valley
+73,San Diego - Carlsbad
+84,San Diego - Chula Vista
+106,San Diego - Coronado
+121,San Diego - Del Mar
+138,San Diego - El Cajon
+147,San Diego - Encinitas
+149,San Diego - Escondido
+209,San Diego - Imperial Beach
+234,San Diego - La Mesa
+256,San Diego - Lemon Grove
+333,San Diego - National City
+346,San Diego - Oceanside
+391,San Diego - Poway
+433,San Diego - San Diego
+435,San Diego - San Diego-Unincorporated
+451,San Diego - San Marcos
+477,San Diego - Santee
+497,San Diego - Solana Beach
+561,San Diego - Vista
+438,San Francisco - San Francisco
+148,San Joaquin - Escalon
+254,San Joaquin - Lathrop
+263,San Joaquin - Lodi
+285,San Joaquin - Manteca
+406,San Joaquin - Ripon
+443,San Joaquin - San Joaquin-Unincorporated
+517,San Joaquin - Stockton
+534,San Joaquin - Tracy
+22,San Luis Obispo - Arroyo Grande
+25,San Luis Obispo - Atascadero
+144,San Luis Obispo - El Paso De Robles
+184,San Luis Obispo - Grover Beach
+326,San Luis Obispo - Morro Bay
+374,San Luis Obispo - Pismo Beach
+448,San Luis Obispo - San Luis Obispo
+610,San Luis Obispo - San Luis Obispo County Integrated Waste Management Authority
+450,San Luis Obispo - San Luis Obispo-Unincorporated
+26,San Mateo - Atherton
+40,San Mateo - Belmont
+54,San Mateo - Brisbane
+58,San Mateo - Burlingame
+93,San Mateo - Colma
+117,San Mateo - Daly City
+137,San Mateo - East Palo Alto
+164,San Mateo - Foster City
+187,San Mateo - Half Moon Bay
+199,San Mateo - Hillsborough
+299,San Mateo - Menlo Park
+305,San Mateo - Millbrae
+358,San Mateo - Pacifica
+390,San Mateo - Portola Valley
+399,San Mateo - Redwood City
+429,San Mateo - San Bruno
+431,San Mateo - San Carlos
+453,San Mateo - San Mateo
+455,San Mateo - San Mateo-Unincorporated
+511,San Mateo - South San Francisco
+584,San Mateo - Woodside
+55,Santa Barbara - Buellton
+75,Santa Barbara - Carpinteria
+619,Santa Barbara - Goleta
+185,Santa Barbara - Guadalupe
+266,Santa Barbara - Lompoc
+462,Santa Barbara - Santa Barbara
+620,Santa Barbara - Santa Barbara Regional Integrated Waste Mgmgt. Reporting Authority
+464,Santa Barbara - Santa Barbara-Unincorporated
+473,Santa Barbara - Santa Maria
+501,Santa Barbara - Solvang
+70,Santa Clara - Campbell
+115,Santa Clara - Cupertino
+175,Santa Clara - Gilroy
+270,Santa Clara - Los Altos
+271,Santa Clara - Los Altos Hills
+276,Santa Clara - Los Gatos
+306,Santa Clara - Milpitas
+316,Santa Clara - Monte Sereno
+325,Santa Clara - Morgan Hill
+328,Santa Clara - Mountain View
+362,Santa Clara - Palo Alto
+444,Santa Clara - San Jose
+465,Santa Clara - Santa Clara
+467,Santa Clara - Santa Clara-Unincorporated
+478,Santa Clara - Saratoga
+519,Santa Clara - Sunnyvale
+72,Santa Cruz - Capitola
+469,Santa Cruz - Santa Cruz
+471,Santa Cruz - Santa Cruz-Unincorporated
+480,Santa Cruz - Scotts Valley
+566,Santa Cruz - Watsonville
+16,Shasta - Anderson
+396,Shasta - Redding
+611,Shasta - Shasta County Waste Management Agency
+486,Shasta - Shasta Lake
+488,Shasta - Shasta-Unincorporated
+277,Sierra - Loyalton
+599,Sierra - Sierra County Regional Agency
+491,Sierra - Sierra-Unincorporated
+131,Siskiyou - Dorris
+136,Siskiyou - Dunsmuir
+150,Siskiyou - Etna
+162,Siskiyou - Fort Jones
+314,Siskiyou - Montague
+327,Siskiyou - Mount Shasta
+494,Siskiyou - Siskiyou County Integrated Solid Waste Management Regional Agency
+496,Siskiyou - Siskiyou-Unincorporated
+542,Siskiyou - Tulelake
+567,Siskiyou - Weed
+589,Siskiyou - Yreka
+42,Solano - Benicia
+130,Solano - Dixon
+154,Solano - Fairfield
+405,Solano - Rio Vista
+499,Solano - Solano-Unincorporated
+518,Solano - Suisun City
+553,Solano - Vacaville
+554,Solano - Vallejo
+88,Sonoma - Cloverdale
+109,Sonoma - Cotati
+192,Sonoma - Healdsburg
+370,Sonoma - Petaluma
+412,Sonoma - Rohnert Park
+476,Sonoma - Santa Rosa
+483,Sonoma - Sebastopol
+502,Sonoma - Sonoma
+503,Sonoma - Sonoma County Waste Management Agency
+505,Sonoma - Sonoma-Unincorporated
+580,Sonoma - Windsor
+78,Stanislaus - Ceres
+202,Stanislaus - Hughson
+308,Stanislaus - Modesto
+339,Stanislaus - Newman
+344,Stanislaus - Oakdale
+368,Stanislaus - Patterson
+407,Stanislaus - Riverbank
+616,Stanislaus - Stanislaus County Regional Solid Waste Planning Agency
+514,Stanislaus - Stanislaus-Unincorporated
+545,Stanislaus - Turlock
+565,Stanislaus - Waterford
+260,Sutter - Live Oak
+523,Sutter - Sutter-Unincorporated
+590,Sutter - Yuba City
+104,Tehama - Corning
+395,Tehama - Red Bluff
+526,Tehama - Tehama
+600,Tehama - Tehama County Sanitary Landfill Regional Agency
+630,Tehama - Tehama County Solid Waste Management Agency
+528,Tehama - Tehama-Unincorporated
+537,Trinity - Trinity-Unincorporated
+609,Tulare - Consolidated Waste Management Authority
+129,Tulare - Dinuba
+152,Tulare - Exeter
+155,Tulare - Farmersville
+259,Tulare - Lindsay
+388,Tulare - Porterville
+539,Tulare - Tulare
+541,Tulare - Tulare-Unincorporated
+560,Tulare - Visalia
+582,Tulare - Woodlake
+506,Tuolumne - Sonora
+544,Tuolumne - Tuolumne-Unincorporated
+69,Ventura - Camarillo
+157,Ventura - Fillmore
+322,Ventura - Moorpark
+347,Ventura - Ojai
+356,Ventura - Oxnard
+387,Ventura - Port Hueneme
+430,Ventura - San Buenaventura
+475,Ventura - Santa Paula
+493,Ventura - Simi Valley
+531,Ventura - Thousand Oaks
+556,Ventura - Ventura-Unincorporated
+120,Yolo - Davis
+571,Yolo - West Sacramento
+581,Yolo - Winters
+583,Yolo - Woodland
+586,Yolo - Yolo-Unincorporated
+293,Yuba - Marysville
+575,Yuba - Wheatland
+593,Yuba - Yuba/Sutter Regional Waste Management Authority
+592,Yuba - Yuba-Unincorporated
